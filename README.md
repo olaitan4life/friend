@@ -1,3 +1,7 @@
+# This app was created to allow friends to share bill among each other after shopping
+
+# core Technology use Reactjs
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
